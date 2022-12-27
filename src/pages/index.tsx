@@ -1,4 +1,4 @@
-import dynamic from 'next/dynamic'
+import dynamic from 'next/dynamic';
 import React, { useState } from "react";
 import parse from 'html-react-parser';
 import axios from 'axios';
